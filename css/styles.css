@@ -1,0 +1,47 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+section{
+    width: 500px;
+    height: 500px;
+    border-color: black;
+    border: 1px solid;
+}
+.foto{
+    width: 70px;
+    height: 70px;
+}
+
+div{
+    border-color: black;
+    border: 1px solid;
+    padding: 5px;
+
+}
+
+.box2-boxs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50px;
+    height: 20px;
+    padding: 5px;
+}
+
+.caja3{
+    width: 900;
+}
+
+.laurels{
+    width: 70px;
+    height: 70px;
+}
+
+.eslabon{
+    width: 100px;
+    height: 100px;
+}
